@@ -159,7 +159,6 @@ MIT License - Feel free to use this project for educational and research purpose
 ## Author
 
 Dilip Reddy - Computer Science Graduate
-Guru Nanak University, Telangana
 
 ## Contributing
 
